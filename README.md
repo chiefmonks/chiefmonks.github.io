@@ -33,7 +33,7 @@ I've been building and leading software projects since **2006**, with a strong f
 
 - Email: rcabarubias@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ronald-cabarubias-69309580/
-- GitHub: [https://github.com/chiefmonks]
+- GitHub: https://github.com/chiefmonks
 
 ---
 
